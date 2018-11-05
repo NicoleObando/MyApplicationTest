@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application Test</string>
     <string name="name">Nicole Obando</string>
+    <string name="welcome">Hello!</string>
 </resources>
